@@ -6,6 +6,7 @@
 #include "VRBPDatatypes.h"
 #include "Modules/ModuleManager.h"
 #include "EditorViewportClient.h"
+#include "ScopedTransaction.h"
 #include "Misc/PackageName.h"
 //#include "Persona.h"
 
